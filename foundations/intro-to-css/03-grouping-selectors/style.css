@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.firstBut, .secondBut{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
+}
+.firstBut{
+    background-color: black;
+    color: white;
+}
+.secondBut{
+    background-color: yellow;
+    color: black;
+}
